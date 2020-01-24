@@ -1,5 +1,6 @@
 ---
 title: Contact
+img_path: /images/pineapple.jpg
 menus:
   main:
     title: Contact
